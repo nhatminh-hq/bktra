@@ -42,7 +42,7 @@ animation: slideInLeft ease .3s,fadeOut linear 1s 3s;
 }
 .toast_body,
 {
-
+flex-grow: 1;
 }
 .toast_title{
 font-size: 16px;
